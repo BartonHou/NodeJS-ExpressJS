@@ -2,9 +2,9 @@
   "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "event.js",
+  "main": "readdatastream.js",
   "scripts": {
-    "start": "node event.js"
+    "start": "node http1.js"
   },
   "author": "",
   "license": "ISC"
