@@ -1,4 +1,4 @@
-const { readFile, wirteFile, writeFile } = require('fs')
+const { readFile, writeFile } = require('fs')
 
 readFile('./giao.txt', 'utf-8', (err, result) => {
     if (err) {
