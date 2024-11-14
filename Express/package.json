@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "express1.js",
+  "scripts": {
+    "start": "node express1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
