@@ -1,12 +1,14 @@
 {
   "dependencies": {
-    "express": "^4.21.1"
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "morgan": "^1.10.0"
   },
-  "name": "express",
+  "name": "express3.js",
   "version": "1.0.0",
-  "main": "express1.js",
+  "main": "express3.js",
   "scripts": {
-    "start": "node express1.js"
+    "start": "node express3.js"
   },
   "keywords": [],
   "author": "",
